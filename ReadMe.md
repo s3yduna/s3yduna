@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-[![mustakyll](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mustakyll/) 
-[![graphxseydu](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graphxseydu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-akyol-0aba64236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzkuulV8RD2cWdFvm3hKmA%3D%3D) 
+[![mustakyll](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustakyll/) 
+[![graphxseydu](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/graphxseydu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-akyol-0aba64236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzkuulV8RD2cWdFvm3hKmA%3D%3D) 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199021199684/)
 
 [![](https://visitcount.itsvg.in/api?id=s3yduna&icon=2&color=4)](https://visitcount.itsvg.in)
