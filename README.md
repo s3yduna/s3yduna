@@ -1,2 +1,0 @@
-# Seyduna
-About Me
