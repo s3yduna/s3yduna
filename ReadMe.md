@@ -3,10 +3,10 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/https://www.instagram.com/mustakyll/) 
-[![Instagram (@graphxseydu)](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graphxseydu/)
+[![mustakyll](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=black)](https://instagram.com/https://www.instagram.com/mustakyll/) 
+[![graphxseydu](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graphxseydu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-akyol-0aba64236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzkuulV8RD2cWdFvm3hKmA%3D%3D) 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199021199684/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=red)](https://steamcommunity.com/profiles/76561199021199684/)
 
 # 💻 Tech Stack:
 ![[Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)(https://unity3d.com)
