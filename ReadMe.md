@@ -3,6 +3,7 @@
 
 
 ## 📱 Socials:
+[![gumroad](https://user-images.githubusercontent.com/80430560/223858544-ad00a7a9-cca5-4f56-bb89-c980eb6eaebc.png)](https://seyduna.gumroad.com/?_ga=2.109127297.56869211.1678312323-585403857.1653604894&_gl=1*16oxg06*_ga*NTg1NDAzODU3LjE2NTM2MDQ4OTQ.*_ga_6LJN6D94N6*MTY3ODMxMjMzNy40NS4wLjE2NzgzMTIzMzcuMC4wLjA.) 
 [![mustakyll](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mustakyll/) 
 [![graphxseydu](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/graphxseydu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-akyol-0aba64236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzkuulV8RD2cWdFvm3hKmA%3D%3D) 
