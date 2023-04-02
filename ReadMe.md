@@ -2,7 +2,7 @@
 
 
 # 💀 About Me:
-🎓 I’m currently learning Unity and Graphic Design (eg. PS, Aseprite, Blender...)<br>🤙 Fun fact - I work on the same project every year and delete it at <br>the end of the year because I don't like it  ¯\_(ツ)_/¯<br><br>
+🎓 I’m currently learning Unity and Graphic Design (eg. PS, Aseprite, Blender...)<br>
 [![](https://visitcount.itsvg.in/api?id=s3yduna&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ## 📱 Socials:
