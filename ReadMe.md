@@ -1,6 +1,6 @@
 ![GitHubBackground](https://user-images.githubusercontent.com/80430560/224831048-6ecb8132-dec5-47d7-92d7-8e5de8f96c3d.png)
 
-
+.
 # 💀 About Me:
 🎓 I’m currently learning Unity and Graphic Design (eg. PS, Aseprite, Blender...)<br>
 [![](https://visitcount.itsvg.in/api?id=s3yduna&icon=2&color=4)](https://visitcount.itsvg.in)
