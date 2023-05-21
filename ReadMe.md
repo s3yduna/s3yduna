@@ -11,7 +11,7 @@
 [![graphxseydu](https://user-images.githubusercontent.com/80430560/224170017-9962964b-c21d-4340-ac49-7e7fcbae6075.png)](https://www.instagram.com/graphxseydu/)
 [![LinkedIn](https://user-images.githubusercontent.com/80430560/224170011-c87816fc-7229-4aa6-a861-908c08e42cb3.png)](https://www.linkedin.com/in/mustafa-akyol-0aba64236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzkuulV8RD2cWdFvm3hKmA%3D%3D) 
 [![Steam](https://user-images.githubusercontent.com/80430560/223862811-2978279c-b5ef-41ab-8706-f0d4a2d58ef6.png)](https://steamcommunity.com/profiles/76561199021199684/)
-.
+
 
 # ⚙️ Tech Stack:
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
