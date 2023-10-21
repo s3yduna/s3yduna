@@ -8,7 +8,6 @@
 ## 📱 Socials:
 [![gumroad](https://user-images.githubusercontent.com/80430560/223863071-40a10722-3604-464c-995e-cfcffb52de65.png)](https://seyduna.gumroad.com/?_ga=2.109127297.56869211.1678312323-585403857.1653604894&_gl=1*16oxg06*_ga*NTg1NDAzODU3LjE2NTM2MDQ4OTQ.*_ga_6LJN6D94N6*MTY3ODMxMjMzNy40NS4wLjE2NzgzMTIzMzcuMC4wLjA.) 
 [![mustakyll](https://user-images.githubusercontent.com/80430560/224170018-717ac14c-395c-4748-80ac-8d22c37c4e2d.png)](https://www.instagram.com/mustakyll/) 
-[![graphxseydu](https://user-images.githubusercontent.com/80430560/224170017-9962964b-c21d-4340-ac49-7e7fcbae6075.png)](https://www.instagram.com/graphxseydu/)
 [![LinkedIn](https://user-images.githubusercontent.com/80430560/224170011-c87816fc-7229-4aa6-a861-908c08e42cb3.png)](https://www.linkedin.com/in/mustafa-akyol-0aba64236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBzkuulV8RD2cWdFvm3hKmA%3D%3D) 
 [![Steam](https://user-images.githubusercontent.com/80430560/223862811-2978279c-b5ef-41ab-8706-f0d4a2d58ef6.png)](https://steamcommunity.com/profiles/76561199021199684/)
 
