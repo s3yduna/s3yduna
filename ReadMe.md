@@ -1,4 +1,4 @@
-![GitHubBackground](https://user-images.githubusercontent.com/80430560/224831048-6ecb8132-dec5-47d7-92d7-8e5de8f96c3d.png)
+![GitHubBackground](https://github.com/s3yduna/s3yduna/assets/80430560/f7f84b00-01f5-4334-818f-0b6527d11e9e)
 
 .
 # 💀 About Me:
